@@ -100,6 +100,10 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 	background-color: #428bca;
 }
 
+.hover-color:hover {
+	background-color: #428bca67 !important;
+}
+
 .text-primary {
 	color: #428bca;
 }
